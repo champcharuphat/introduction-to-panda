@@ -1,2 +1,2 @@
 ## introduction-to-pandas
-- Learn about basic method of pandas
+- Learn about basic methods of pandas
